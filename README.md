@@ -26,8 +26,8 @@ Adde database in mysql :-
 6. python manage.py createsuperuser
 7. admin :- XXXXXXXXX
 8. gmail:- XXXXXXXXXXXX
-9. password :- XXXXXXXXXXXXX
-10. confirm password :- XXXXXXXX
+9. password :- XXXXXXXX
+10. confirm password :- XXXXXXXXX
 
 11. (my admin  application : admin- speed and password - spped )
 12. 
