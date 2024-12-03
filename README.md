@@ -34,3 +34,7 @@ Adde database in mysql :-
    
 
 run server command :- python manage.py runserver
+
+
+how to install requirements:-
+pip freeze > requirements.txt
