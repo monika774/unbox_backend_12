@@ -34,5 +34,3 @@ Adde database in mysql :-
    
 
 run server command :- python manage.py runserver
-
-6.  
